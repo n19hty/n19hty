@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @n19ht
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://twitter.com/iamandrewmeier
+- 👋 Hi, I’m @n19ht. In the real world, they call me Andrew.
+- I currently work @[Huntress](https://huntress.com).
+- 📫 How to reach me ... https://iamandrewmeier.com
 
 <!---
 n19hty/n19hty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
